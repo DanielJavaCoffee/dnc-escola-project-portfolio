@@ -10,7 +10,7 @@ Nota: Este projeto ainda não está totalmente responsivo e pode não se adaptar
 
 ## Como Visualizar o Site
 
-Você pode visualizar o site do projeto no seguinte link: [Link do Site](https://seusiteaqui.com)
+Você pode visualizar o site do projeto no seguinte link: [Link do Site](https://dncprojectportfolio.netlify.app/)
 
 ## Como Contribuir
 
